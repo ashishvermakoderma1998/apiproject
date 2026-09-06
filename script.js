@@ -9,9 +9,9 @@ const students = [
     },
     {
         id: 2,
-        name: "Amit",
-        age: 21,
-        city: "Ranchi",
+        name: "Ashish",
+        age: 28,
+        city: "Koderma",
         course: "React",
         marks: 90
     },
