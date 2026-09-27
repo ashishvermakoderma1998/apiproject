@@ -1,7 +1,7 @@
 const students = [
     {
         id: 1,
-        name: "Sweet",
+        name: "Sweety",
         age: 20,
         city: "Patna",
         course: "JavaScript",
