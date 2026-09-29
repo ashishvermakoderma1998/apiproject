@@ -41,7 +41,7 @@ const students = [
     },
     {
         id: 6,
-        name: "Vika",
+        name: "Vikas",
         age: 21,
         city: "Bangalore",
         course: "JavaScript",
