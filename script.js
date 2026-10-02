@@ -17,7 +17,7 @@ const students = [
     },
     {
         id: 3,
-        name: "Sak",
+        name: "Saks",
         age: 19,
         city: "Delhi",
         course: "HTML & CSS",
