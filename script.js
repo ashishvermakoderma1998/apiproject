@@ -33,7 +33,7 @@ const students = [
     },
     {
         id: 5,
-        name: "Sapna Kush",
+        name: "Sapna Kushw",
         age: 20,
         city: "Kolkata",
         course: "React",
